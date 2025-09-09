@@ -3,4 +3,10 @@ function main() {
 	console.log("ho fatto una modifica 124");
 }
 
+function verniciatura() {
+	console.log("ho verniciato");
+	console.log("ho vernicaito meglio");
+	console.log("ho verniciato ancora meglio");
+}
+
 main();
