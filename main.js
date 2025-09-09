@@ -5,6 +5,7 @@ function main() {
 
 function verniciatura() {
 	console.log("ho verniciato");
+	console.log("ho vernicaito meglio");
 }
 
 main();
